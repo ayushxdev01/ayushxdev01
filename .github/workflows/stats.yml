@@ -1,0 +1,53 @@
+name: Update README Stats Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          username: ayushxdev01
+          theme: tokyonight
+          show_icons: true
+          hide_border: true
+          bg_color: "0d0221"
+          title_color: "a78bfa"
+          icon_color: "8b5cf6"
+          text_color: "c4b5fd"
+          ring_color: "6d28d9"
+          output: dist/stats.svg
+
+      - name: Generate top-langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          username: ayushxdev01
+          theme: tokyonight
+          layout: compact
+          hide_border: true
+          bg_color: "0d0221"
+          title_color: "a78bfa"
+          text_color: "c4b5fd"
+          output: dist/top-langs.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git diff --staged --quiet || git commit -m "Update stats cards"
+          git push
