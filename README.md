@@ -258,12 +258,8 @@ Designed embedded hardware and firmware systems for EV telemetry, optimizing for
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushxdev01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=6d28d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushxdev01&theme=tokyonight&hide_border=true&background=0d0221&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa"/>
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushxdev01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd"/>
+<img height="200" src="dist/stats.svg"/>
+<img height="200" src="dist/top-langs.svg"/>
 
 <br/><br/>
 
