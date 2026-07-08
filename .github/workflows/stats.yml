@@ -20,29 +20,17 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          username: ayushxdev01
-          theme: tokyonight
-          show_icons: true
-          hide_border: true
-          bg_color: "0d0221"
-          title_color: "a78bfa"
-          icon_color: "8b5cf6"
-          text_color: "c4b5fd"
-          ring_color: "6d28d9"
-          output: dist/stats.svg
+          options: username=ayushxdev01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=6d28d9
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top-langs card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          username: ayushxdev01
-          theme: tokyonight
-          layout: compact
-          hide_border: true
-          bg_color: "0d0221"
-          title_color: "a78bfa"
-          text_color: "c4b5fd"
-          output: dist/top-langs.svg
+          options: username=ayushxdev01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
