@@ -297,8 +297,6 @@ Designed embedded hardware and firmware systems for EV telemetry, optimizing for
 
 </div>
 
-> To activate: add a GitHub Actions workflow using `Platane/snk` in your profile repo (`ayushxdev01/ayushxdev01`) that generates this SVG on a schedule and commits it to an `output` branch — themed to match a neon-violet gradient (`#0d0221 → #6d28d9 → #a78bfa`) for full visual consistency with this README.
-
 ---
 
 ## 🎯 Current Focus
