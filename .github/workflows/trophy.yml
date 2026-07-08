@@ -18,7 +18,7 @@ jobs:
 
       - name: Generate trophy image
         run: |
-          curl -o dist/trophy.svg "https://github-profile-trophy.vercel.app/?username=ayushxdev01&theme=nightfall&no-frame=true&no-bg=true&margin-w=10&row=1"
+          curl -f -o dist/trophy.svg "https://github-profile-trophy.vercel.app/?username=ayushxdev01&theme=nightfall&no-frame=true&no-bg=true&margin-w=10&row=1"
 
       - name: Commit and push
         run: |
