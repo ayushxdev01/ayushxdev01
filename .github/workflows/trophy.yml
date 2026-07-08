@@ -16,9 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate trophy image
-        run: |
-          curl -f -o dist/trophy.svg "https://github-profile-trophy.vercel.app/?username=ayushxdev01&theme=nightfall&no-frame=true&no-bg=true&margin-w=10&row=1"
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ayushxdev01
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
