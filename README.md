@@ -116,7 +116,7 @@ An intelligent resume evaluation platform that analyzes resumes against job cate
 | **Performance** | ~50ms average response time (ultra-low latency text analysis) |
 | **Security** | Secure server routing configured for production traffic on AWS |
 | **Impact** | +25% improvement in targeted applicant-matching precision |
-| **Repository** | [github.com/ayushxdev01](https://github.com/ayushxdev01) |
+| **Repository** | [github.com/ayushxdev01](github.com/ayushxdev01/ai_resume_coach) |
 
 Engineered strict LLM prompt pipelines to reliably parse unstructured PDF resumes into structured data, then deployed the full application to AWS with hardened server configuration to handle live traffic securely and efficiently.
 
@@ -154,7 +154,7 @@ An Android-native smart inventory management system with real-time stock trackin
 | **Performance** | Automatic real-time stock updates & GST-compliant invoicing |
 | **Security** | Store-level access control for administrative workflows |
 | **Impact** | 40% reduction in manual support tickets, 95% satisfaction score |
-| **Repository** | [github.com/ayushxdev01](https://github.com/ayushxdev01) |
+| **Repository** | [github.com/ayushxdev01](github.com/ayushxdev01/Ayush_Gupta_CSE4_ByteStock) |
 
 Built a conversational chatbot mapping 27 distinct query intents at 92% accuracy, significantly reducing manual support overhead while streamlining real-time administrative workflows for business owners.
 
