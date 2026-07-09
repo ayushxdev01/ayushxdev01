@@ -9,7 +9,6 @@
 <br/>
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.8%2F10-6d28d9?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Gurugram%2C%20Haryana-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
