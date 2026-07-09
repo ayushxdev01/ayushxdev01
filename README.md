@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6d28d9,100:a78bfa&height=220&section=header&text=AYUSH%20GUPTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Data%20Analysis&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1d4ed8,100:38bdf8&height=220&section=header&text=AYUSH%20GUPTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Data%20Analysis&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+AI%2FML+Engineer;Computer+Vision+%2B+NLP+Enthusiast;Full+Stack+%7C+Python+%2B+React+%2B+Flask;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+AI%2FML+Engineer;Computer+Vision+%2B+NLP+Enthusiast;Full+Stack+%7C+Python+%2B+React+%2B+Flask;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Gurugram%2C%20Haryana-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-1d4ed8?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Gurugram%2C%20Haryana-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ayushxdev01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushgupta3105/)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a005gupta456@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushxdev01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushgupta3105/)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a005gupta456@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushxdev01)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushxdev01&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ayushxdev01?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/ayushxdev01?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=ayushxdev01&color=1d4ed8&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ayushxdev01?style=for-the-badge&color=1d4ed8&labelColor=1a1a2e&logo=github)
+![Stars](https://img.shields.io/github/stars/ayushxdev01?style=for-the-badge&color=38bdf8&labelColor=1a1a2e&logo=github)
 
 </div>
 
@@ -64,7 +64,7 @@ I'm a **Computer Science Engineering** student and aspiring **Software / AI-ML E
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
-![XML](https://img.shields.io/badge/XML-6d28d9?style=flat-square&logo=xml&logoColor=white)
+![XML](https://img.shields.io/badge/XML-1d4ed8?style=flat-square&logo=xml&logoColor=white)
 
 **Backend & Databases**
 
@@ -230,15 +230,15 @@ Designed embedded hardware and firmware systems for EV telemetry, optimizing for
 
 **Udemy**
 
-![Python Bootcamp](https://img.shields.io/badge/Python%20Programming%20Bootcamp-Udemy-6d28d9?style=for-the-badge&logo=udemy&logoColor=white)
+![Python Bootcamp](https://img.shields.io/badge/Python%20Programming%20Bootcamp-Udemy-1d4ed8?style=for-the-badge&logo=udemy&logoColor=white)
 
 **CodeTantra**
 
-![C++ Advanced](https://img.shields.io/badge/C%2B%2B%20Advanced%20Foundations-CodeTantra-6d28d9?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++ Advanced](https://img.shields.io/badge/C%2B%2B%20Advanced%20Foundations-CodeTantra-1d4ed8?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Electrifuel Pvt. Ltd. & Silicon Labs**
 
-![IoT Training](https://img.shields.io/badge/IoT%20%26%20Embedded%20Systems%20Training-Electrifuel%20%7C%20Silicon%20Labs-4c1d95?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT Training](https://img.shields.io/badge/IoT%20%26%20Embedded%20Systems%20Training-Electrifuel%20%7C%20Silicon%20Labs-1e3a8a?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -246,8 +246,8 @@ Designed embedded hardware and firmware systems for EV telemetry, optimizing for
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6d28d9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DevAyushG/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6d28d9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/a005gup85gc)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-1d4ed8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DevAyushG/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-1d4ed8?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/a005gup85gc)
 
 </div>
 
@@ -262,13 +262,13 @@ Designed embedded hardware and firmware systems for EV telemetry, optimizing for
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushxdev01&theme=shades_of_purple"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushxdev01&theme=nord_dark"/>
 
 <br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushxdev01&theme=shades_of_purple"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushxdev01&theme=shades_of_purple"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushxdev01&theme=shades_of_purple"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushxdev01&theme=nord_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushxdev01&theme=nord_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushxdev01&theme=nord_dark"/>
 
 </div>
 
@@ -278,7 +278,7 @@ Designed embedded hardware and firmware systems for EV telemetry, optimizing for
 
 <div align="center">
 
-<img src="https://github-profile-trophy-sigma-ebon.vercel.app/?username=ayushxdev01&theme=nightfall&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy-sigma-ebon.vercel.app/?username=ayushxdev01&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -288,7 +288,7 @@ Designed embedded hardware and firmware systems for EV telemetry, optimizing for
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushxdev01&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=6d28d9&point=c4b5fd&area=true&area_color=6d28d9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushxdev01&theme=tokyo-night&hide_border=true&bg_color=020617&color=38bdf8&line=1d4ed8&point=93c5fd&area=true&area_color=1d4ed8"/>
 
 </div>
 
@@ -352,10 +352,10 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-a005gupta456%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a005gupta456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Gupta-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushgupta3105/)
-[![GitHub](https://img.shields.io/badge/GitHub-ayushxdev01-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushxdev01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ayushxdev01)
+[![Gmail](https://img.shields.io/badge/Gmail-a005gupta456%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a005gupta456@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Gupta-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushgupta3105/)
+[![GitHub](https://img.shields.io/badge/GitHub-ayushxdev01-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushxdev01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ayushxdev01)
 
 </div>
 
@@ -365,6 +365,6 @@ current_focus:
 
 *"Code with precision. Ship with purpose. Scale with intention."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6d28d9,100:0d0221&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:020617&height=150&section=footer"/>
 
 </div>
