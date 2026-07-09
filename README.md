@@ -319,7 +319,7 @@ Designed embedded hardware and firmware systems for EV telemetry, optimizing for
 
 </td>
 <td width="40%" align="center">
-<img width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+<img width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </td>
 </tr>
 </table>
