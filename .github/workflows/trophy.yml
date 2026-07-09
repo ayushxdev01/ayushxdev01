@@ -14,20 +14,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - uses: lowlighter/metrics@latest
         with:
-          username: ayushxdev01
-          output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/trophy.svg
-          git diff --staged --quiet || git commit -m "Update trophy image"
-          git pull --rebase origin main
-          git push
+          filename: dist/trophy.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
