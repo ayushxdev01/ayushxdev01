@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ayushxdev01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushgupta3105/)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a005gupta456@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.guptax456@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushxdev01)
 
 <br/>
@@ -352,7 +352,7 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-a005gupta456%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a005gupta456@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ayush.guptax456%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.guptax456@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Gupta-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushgupta3105/)
 [![GitHub](https://img.shields.io/badge/GitHub-ayushxdev01-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushxdev01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ayushxdev01)
